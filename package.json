@@ -1,0 +1,24 @@
+{
+  "name": "lab-maps",
+  "version": "1.0.0",
+  "description": "![logo_udemy](https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VINIRR99/lab-maps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VINIRR99/lab-maps/issues"
+  },
+  "homepage": "https://github.com/VINIRR99/lab-maps#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0",
+    "typescript": "^4.8.4"
+  }
+}
