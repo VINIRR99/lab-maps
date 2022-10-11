@@ -8,4 +8,11 @@ console.log(user);
 const company = new Company();
 console.log(company);
 
-createScriptTag();
+createScriptTag(() => {
+    const map = document.getElementById('map') as HTMLDivElement;
+
+    new google.maps.Map(map, {
+        zoom: 1,
+        center: { lat: 0, lng: 0 }
+    });
+});
