@@ -28,6 +28,7 @@ GOOGLE_MAPS_API_KEY=   // Your Google Maps Api Key
 ```shell
 $ cd lab-maps
 $ npm install
+$ parcel index.html
 ```
 
 ### Available Scripts
