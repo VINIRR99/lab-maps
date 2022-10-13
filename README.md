@@ -4,7 +4,7 @@
 
 This lab was made for the [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/) online course at [Udemy](https://www.udemy.com/).
 
-It will show a map and two random markers on the map, one being in one rando user and a random company.
+It will show a map and two random markers on the map, one being in one random user and a random company.
 
 ## Technologies
 
